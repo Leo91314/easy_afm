@@ -14,6 +14,13 @@
 ## 预计耗时
 - 25~35 分钟
 
+## 教学图片（建议先看图再读）
+![Python标志图](../assets/02-零基础预备知识/06-python-logo.png)
+
+> 图片用途：先建立“Python 是上位机控制语言”的角色印象，再读项目映射。
+> 来源：[https://commons.wikimedia.org/wiki/File:Python-logo.png](https://commons.wikimedia.org/wiki/File:Python-logo.png)
+> 许可：CC BY 2.5
+
 ## 正文
 
 ### 1. Python 在这里不是“刷题语言”

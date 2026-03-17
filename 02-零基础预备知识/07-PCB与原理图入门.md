@@ -14,6 +14,13 @@
 ## 预计耗时
 - 30 分钟
 
+## 教学图片（建议先看图再读）
+![PCB电路板近景图](https://upload.wikimedia.org/wikipedia/commons/c/c4/Macro_circuit_board.JPG)
+
+> 图片用途：先看真实 PCB 的焊盘和走线，再区分“原理图逻辑”和“PCB落地”。
+> 来源：[https://commons.wikimedia.org/wiki/File:Macro_circuit_board.JPG](https://commons.wikimedia.org/wiki/File:Macro_circuit_board.JPG)
+> 许可：CC BY-SA 4.0
+
 ## 正文
 
 ### 1. 原理图是“逻辑连接图”

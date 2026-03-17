@@ -15,6 +15,13 @@
 ## 预计耗时
 - 35~45 分钟
 
+## 教学图片（建议先看图再读）
+![CD光学拾取头OPU实物图](https://upload.wikimedia.org/wikipedia/commons/d/dc/CD_Optical_laser_head_Pickup_Unit_%28OPU%29.jpg)
+
+> 图片用途：先看 OPU 实物结构，再理解 AFM 项目里“光路检测”为什么难。
+> 来源：[https://commons.wikimedia.org/wiki/File:CD_Optical_laser_head_Pickup_Unit_(OPU).jpg](https://commons.wikimedia.org/wiki/File:CD_Optical_laser_head_Pickup_Unit_(OPU).jpg)
+> 许可：CC BY-SA 4.0
+
 ## 正文
 
 ### 1. OPU 是什么
